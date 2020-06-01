@@ -11,7 +11,6 @@ body{
 }
 .close-button{
 	position: relative;
-	display: none;
 	box-sizing: border-box;
 	width: 50px;
 	height: 50px;
@@ -20,6 +19,7 @@ body{
 	flex-direction: column;
 	justify-content: center;
 	cursor: pointer;
+	display: none;
   }
   .line-1{
 	width: 100%;
